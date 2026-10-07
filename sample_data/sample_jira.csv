@@ -1,0 +1,11 @@
+Issue key,Project key,Created,Resolved,Priority,Status,Status Category,Issue Type,Assignee,Custom field (Requirement-Type),Custom field (Business Process)
+DEMO-1,APP,2026-01-03 09:00,2026-01-05 14:30,High,Done,Done,Bug,Alex,Functional,Order Management
+DEMO-2,APP,2026-01-04 11:15,,Medium,In Progress,In Progress,Bug,Jordan,Functional,Order Management
+DEMO-3,DATA,2026-01-07 08:20,2026-01-10 16:00,Critical,Done,Done,Bug,Taylor,Data,Reporting
+DEMO-4,DATA,2026-01-08 13:40,,Low,To Do,To Do,Bug,Unassigned,Data,Reporting
+DEMO-5,PORTAL,2026-01-12 10:10,2026-01-13 12:10,Medium,Done,Done,Bug,Alex,UI,Customer Portal
+DEMO-6,PORTAL,2026-01-15 15:00,,High,In Progress,In Progress,Bug,Jordan,UI,Customer Portal
+DEMO-7,APP,2026-01-18 09:30,2026-01-22 17:45,High,Done,Done,Bug,Taylor,Functional,Billing
+DEMO-8,APP,2026-01-21 14:00,,Medium,To Do,To Do,Bug,Alex,Functional,Billing
+DEMO-9,DATA,2026-01-24 10:45,2026-01-25 18:00,Low,Done,Done,Bug,Jordan,Data,Reporting
+DEMO-10,PORTAL,2026-01-28 12:00,,Critical,In Progress,In Progress,Bug,Taylor,UI,Customer Portal
